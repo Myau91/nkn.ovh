@@ -1,4 +1,4 @@
-# nkn.ovh
+# nkn. ovh
 nkn.ovh - Open source monitoring for NKN nodes
 
 ## API
